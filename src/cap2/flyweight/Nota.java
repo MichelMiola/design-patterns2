@@ -1,0 +1,6 @@
+package cap2.flyweight;
+
+public interface Nota {
+
+	public String simbolo();	
+}
